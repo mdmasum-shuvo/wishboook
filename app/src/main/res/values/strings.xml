@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Best Wishes</string>
+    <string name="birthday">Birthday</string>
+    <string name="anniversary">Anniversary</string>
+    <string name="health">Health</string>
+    <string name="christmas">Festival</string>
+    <string name="motivation">Motivation</string>
+    <string name="success">Success</string>
+</resources>
